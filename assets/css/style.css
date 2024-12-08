@@ -1044,6 +1044,13 @@ body.dark-theme {
     }
 }
 
+
+@media (min-width: 340px) and (max-width: 1199px) {
+        .home__profile img {
+                height: 275px;
+            }
+}
+
 @media screen and (min-width: 767px) {
     .home__container {
         grid-template-columns: 1fr 2fr 1fr;
