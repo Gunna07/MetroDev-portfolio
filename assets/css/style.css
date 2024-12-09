@@ -371,6 +371,7 @@ body.dark-theme {
 
 .home__profile img {
     width: 110px;
+    height: 530px;
     padding-top: 10px;
     border-radius: 65px;
     
@@ -1369,4 +1370,7 @@ body.dark-theme {
     .footer__copy {
         margin-top: 5rem;
     }
+    .home__profile img {
+    height: 530px;  
+}
 }
